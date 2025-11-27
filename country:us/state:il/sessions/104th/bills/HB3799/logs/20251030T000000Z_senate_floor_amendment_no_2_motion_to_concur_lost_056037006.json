@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 2 Motion to Concur Lost 056-037-006",
+    "date": "2025-10-30",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB3799"
+}

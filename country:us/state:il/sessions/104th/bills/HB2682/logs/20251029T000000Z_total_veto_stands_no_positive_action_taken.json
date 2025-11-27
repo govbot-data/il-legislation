@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Total Veto Stands - No Positive Action Taken",
+    "date": "2025-10-29",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2682"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Floor Amendment No. 3 Tabled Harmon",
+    "date": "2025-10-30",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1312"
+}
