@@ -66,6 +66,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:17Z"
+    "logs_latest_update": "2026-07-21T18:56:17Z",
+    "text_extraction_latest_update": "2026-07-22T02:05:21.705480Z"
   }
 }
