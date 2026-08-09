@@ -120,6 +120,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:24Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Lindsey LaPointe",
+      "date": "2026-08-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:14:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -170,6 +180,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Rita Mayfield\"}",
       "organization_id": null
+    },
+    {
+      "name": "Lindsey LaPointe",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lindsey LaPointe\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -206,7 +224,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:24Z",
+    "logs_latest_update": "2026-08-09T08:14:44Z",
     "text_extraction_latest_update": "2026-07-21T23:19:33.874104Z"
   }
 }

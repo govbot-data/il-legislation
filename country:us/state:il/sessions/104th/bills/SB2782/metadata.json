@@ -618,6 +618,50 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:33Z"
       }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Michael W. Halpin",
+      "date": "2026-07-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:14:44Z"
+      }
+    },
+    {
+      "description": "Governor Approved",
+      "date": "2026-07-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:14:44Z"
+      }
+    },
+    {
+      "description": "Effective Date January 1, 2027",
+      "date": "2026-07-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:14:44Z"
+      }
+    },
+    {
+      "description": "Public Act . . . . . . . . . 104-0633",
+      "date": "2026-07-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:14:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -643,6 +687,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Laura M. Murphy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Michael W. Halpin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Michael W. Halpin\"}",
       "organization_id": null
     },
     {
@@ -933,7 +985,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Public Act",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/PublicActs/View/104-0633",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -949,7 +1013,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:33Z",
+    "logs_latest_update": "2026-08-09T08:14:44Z",
     "text_extraction_latest_update": "2026-07-21T23:25:03.239378Z"
   }
 }

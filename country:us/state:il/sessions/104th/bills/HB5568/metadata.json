@@ -80,6 +80,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:15Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kelly M. Cassidy",
+      "date": "2026-07-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T08:14:44Z"
+      }
     }
   ],
   "sponsorships": [
@@ -97,6 +107,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lindsey LaPointe\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelly M. Cassidy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kelly M. Cassidy\"}",
       "organization_id": null
     }
   ],
@@ -134,7 +152,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:15Z",
+    "logs_latest_update": "2026-08-09T08:14:44Z",
     "text_extraction_latest_update": "2026-07-22T02:00:13.883128Z"
   }
 }
