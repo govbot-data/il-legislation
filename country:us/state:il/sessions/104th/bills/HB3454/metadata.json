@@ -456,6 +456,18 @@
       }
     },
     {
+      "description": "Senate Committee Amendment No. 1 Tabled Pursuant to Rule 5-4(a)",
+      "date": "2026-05-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:17:18Z"
+      }
+    },
+    {
       "description": "Added as Alternate Co-Sponsor Sen. Mary Edly-Allen",
       "date": "2026-05-28",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -577,6 +589,40 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:56:25Z"
+      }
+    },
+    {
+      "description": "Governor Approved",
+      "date": "2026-08-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:17:18Z"
+      }
+    },
+    {
+      "description": "Effective Date January 1, 2027",
+      "date": "2026-08-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:17:18Z"
+      }
+    },
+    {
+      "description": "Public Act . . . . . . . . . 104-0762",
+      "date": "2026-08-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:17:18Z"
       }
     }
   ],
@@ -748,7 +794,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Public Act",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/PublicActs/View/104-0762",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -764,7 +822,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:25Z",
+    "logs_latest_update": "2026-08-12T08:17:18Z",
     "text_extraction_latest_update": "2026-07-22T08:51:02.396921Z"
   }
 }

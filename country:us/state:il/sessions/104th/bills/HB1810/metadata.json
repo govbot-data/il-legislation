@@ -790,6 +790,40 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:31Z"
       }
+    },
+    {
+      "description": "Governor Approved",
+      "date": "2026-08-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:17:18Z"
+      }
+    },
+    {
+      "description": "Effective Date August 7, 2026;  Equitable Access to Education,Employment and Training for Incarcerated Individuals with Disabilities Act will appear at 730 ILCS 230/.",
+      "date": "2026-08-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:17:18Z"
+      }
+    },
+    {
+      "description": "Public Act . . . . . . . . . 104-0757",
+      "date": "2026-08-07",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-12T08:17:18Z"
+      }
     }
   ],
   "sponsorships": [
@@ -1072,7 +1106,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Public Act",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/PublicActs/View/104-0757",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -1088,7 +1134,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:31Z",
+    "logs_latest_update": "2026-08-12T08:17:18Z",
     "text_extraction_latest_update": "2026-07-22T08:59:12.168413Z"
   }
 }
