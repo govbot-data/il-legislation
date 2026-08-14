@@ -48,6 +48,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:23Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Tony M. McCombie",
+      "date": "2026-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-14T08:18:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -57,6 +67,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"David Friess\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony M. McCombie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tony M. McCombie\"}",
       "organization_id": null
     }
   ],
@@ -94,7 +112,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:23Z",
+    "logs_latest_update": "2026-08-14T08:18:11Z",
     "text_extraction_latest_update": "2026-07-22T10:51:18.488764Z"
   }
 }
