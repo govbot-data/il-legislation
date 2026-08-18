@@ -100,6 +100,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:17Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Scott Doody",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:05:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -125,6 +135,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Travis Weaver\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Scott Doody",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Scott Doody\"}",
       "organization_id": null
     }
   ],
@@ -162,7 +180,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:17Z",
+    "logs_latest_update": "2026-08-18T07:05:57Z",
     "text_extraction_latest_update": "2026-07-22T02:06:52.213132Z"
   }
 }

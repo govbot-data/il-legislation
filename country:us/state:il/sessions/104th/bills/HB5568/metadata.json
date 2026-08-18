@@ -90,6 +90,16 @@
       "_processing": {
         "log_file_created": "2026-08-09T08:14:44Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. William \"Will\" Davis",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:05:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -115,6 +125,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kelly M. Cassidy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William \"Will\" Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William \\\"Will\\\" Davis\"}",
       "organization_id": null
     }
   ],
@@ -152,7 +170,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T08:14:44Z",
+    "logs_latest_update": "2026-08-18T07:05:57Z",
     "text_extraction_latest_update": "2026-08-09T08:17:44.007284Z"
   }
 }

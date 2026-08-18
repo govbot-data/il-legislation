@@ -112,6 +112,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:23Z"
       }
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Steven Reick",
+      "date": "2026-08-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-18T07:05:57Z"
+      }
     }
   ],
   "sponsorships": [
@@ -121,6 +131,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tom Weber\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Reick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Steven Reick\"}",
       "organization_id": null
     }
   ],
@@ -158,7 +176,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:23Z",
+    "logs_latest_update": "2026-08-18T07:05:57Z",
     "text_extraction_latest_update": "2026-07-22T00:51:12.139576Z"
   }
 }
