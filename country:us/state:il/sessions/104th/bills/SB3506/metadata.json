@@ -92,13 +92,13 @@
       }
     },
     {
-      "description": "Added as Co-Sponsor Sen. Adriane Johnson",
+      "description": "Added as Co-Sponsor Sen. Adriane L. Johnson",
       "date": "2026-03-03",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:56:09Z"
+        "log_file_created": "2026-08-19T07:32:33Z"
       }
     },
     {
@@ -668,6 +668,60 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:09Z"
       }
+    },
+    {
+      "description": "Governor Approved",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:32:33Z"
+      }
+    },
+    {
+      "description": "Effective Date August 18, 2026;  Some Provisions",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:32:33Z"
+      }
+    },
+    {
+      "description": "Effective Date January 1, 2027;  Some Provisions",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:32:33Z"
+      }
+    },
+    {
+      "description": "Effective Date June 1, 2027;  Some Provisions",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:32:33Z"
+      }
+    },
+    {
+      "description": "Public Act . . . . . . . . . 104-0837",
+      "date": "2026-08-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-19T07:32:33Z"
+      }
     }
   ],
   "sponsorships": [
@@ -712,11 +766,11 @@
       "organization_id": null
     },
     {
-      "name": "Adriane Johnson",
+      "name": "Adriane L. Johnson",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane Johnson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane L. Johnson\"}",
       "organization_id": null
     },
     {
@@ -878,7 +932,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Public Act",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/PublicActs/View/104-0837",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -894,7 +960,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:09Z",
+    "logs_latest_update": "2026-08-19T07:32:33Z",
     "text_extraction_latest_update": "2026-07-22T09:19:52.370178Z"
   }
 }
