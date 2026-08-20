@@ -16,7 +16,7 @@
   ],
   "actions": [
     {
-      "description": "Filed with the Clerk by Rep. Dan Ugaste",
+      "description": "Filed with the Clerk by Rep. Daniel J. Ugaste",
       "date": "2026-07-08",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
@@ -24,7 +24,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:56:17Z"
+        "log_file_created": "2026-08-20T07:33:57Z"
       }
     },
     {
@@ -46,15 +46,35 @@
       "_processing": {
         "log_file_created": "2026-08-09T08:14:44Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Norine K. Hammond",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:33:57Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kyle Moore",
+      "date": "2026-08-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-20T07:33:57Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Dan Ugaste",
+      "name": "Daniel J. Ugaste",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Ugaste\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel J. Ugaste\"}",
       "organization_id": null
     },
     {
@@ -71,6 +91,22 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Norine K. Hammond",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Norine K. Hammond\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kyle Moore\"}",
       "organization_id": null
     }
   ],
@@ -108,7 +144,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T08:14:44Z",
+    "logs_latest_update": "2026-08-20T07:33:57Z",
     "text_extraction_latest_update": "2026-08-09T08:17:44.395247Z"
   }
 }
