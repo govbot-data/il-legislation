@@ -296,6 +296,16 @@
       "_processing": {
         "log_file_created": "2026-08-18T07:05:57Z"
       }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Rachel Ventura",
+      "date": "2026-08-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-21T08:03:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -345,6 +355,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Javier L. Cervantes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Rachel Ventura",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Rachel Ventura\"}",
       "organization_id": null
     }
   ],
@@ -412,7 +430,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-18T07:05:57Z",
+    "logs_latest_update": "2026-08-21T08:03:12Z",
     "text_extraction_latest_update": "2026-08-18T07:08:38.087968Z"
   }
 }
