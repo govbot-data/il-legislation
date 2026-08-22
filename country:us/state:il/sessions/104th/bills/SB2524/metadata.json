@@ -798,6 +798,30 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:13Z"
       }
+    },
+    {
+      "description": "Governor Approved",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T08:01:16Z"
+      }
+    },
+    {
+      "description": "Public Act . . . . . . . . . 104-0840",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T08:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -1072,7 +1096,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Public Act",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/PublicActs/View/104-0840",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -1088,7 +1124,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:13Z",
+    "logs_latest_update": "2026-08-22T08:01:16Z",
     "text_extraction_latest_update": "2026-07-22T00:04:34.308925Z"
   }
 }

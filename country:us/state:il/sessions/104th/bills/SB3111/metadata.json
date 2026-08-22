@@ -1,7 +1,7 @@
 {
   "legislative_session": "104th",
   "identifier": "SB3111",
-  "title": "COUNTIES CD-COUNTY LIBRARY",
+  "title": "COUNTY LAW LIBRARIES",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -16,7 +16,7 @@
   ],
   "actions": [
     {
-      "description": "Filed with Secretary by Sen. Adriane Johnson",
+      "description": "Filed with Secretary by Sen. Adriane L. Johnson",
       "date": "2026-02-02",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -24,7 +24,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:56:16Z"
+        "log_file_created": "2026-08-22T08:01:16Z"
       }
     },
     {
@@ -316,7 +316,7 @@
       }
     },
     {
-      "description": "House Committee Amendment No. 1 Motion to Concur Filed with Secretary Sen. Adriane Johnson",
+      "description": "House Committee Amendment No. 1 Motion to Concur Filed with Secretary Sen. Adriane L. Johnson",
       "date": "2026-05-28",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
@@ -324,7 +324,7 @@
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:56:16Z"
+        "log_file_created": "2026-08-22T08:01:16Z"
       }
     },
     {
@@ -398,15 +398,39 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:16Z"
       }
+    },
+    {
+      "description": "Governor Approved",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T08:01:16Z"
+      }
+    },
+    {
+      "description": "Public Act . . . . . . . . . 104-0844",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T08:01:16Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Adriane Johnson",
+      "name": "Adriane L. Johnson",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane Johnson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane L. Johnson\"}",
       "organization_id": null
     },
     {
@@ -489,7 +513,19 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Public Act",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/PublicActs/View/104-0844",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
@@ -505,7 +541,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:16Z",
+    "logs_latest_update": "2026-08-22T08:01:16Z",
     "text_extraction_latest_update": "2026-07-21T23:09:26.626695Z"
   }
 }

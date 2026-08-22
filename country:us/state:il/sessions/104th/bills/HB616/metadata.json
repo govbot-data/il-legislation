@@ -250,6 +250,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:15Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Abdelnasser Rashid",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-22T08:01:16Z"
+      }
     }
   ],
   "sponsorships": [
@@ -291,6 +301,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lilian Jim\\u00e9nez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Abdelnasser Rashid",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Abdelnasser Rashid\"}",
       "organization_id": null
     }
   ],
@@ -343,7 +361,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:15Z",
+    "logs_latest_update": "2026-08-22T08:01:16Z",
     "text_extraction_latest_update": "2026-07-22T08:21:51.370660Z"
   }
 }
