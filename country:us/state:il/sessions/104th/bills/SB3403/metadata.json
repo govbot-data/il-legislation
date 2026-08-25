@@ -476,6 +476,16 @@
       }
     },
     {
+      "description": "Effective Date August 21, 2026",
+      "date": "2026-08-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T07:03:14Z"
+      }
+    },
+    {
       "description": "Public Act . . . . . . . . . 104-0849",
       "date": "2026-08-21",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -605,7 +615,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-22T08:01:16Z",
+    "logs_latest_update": "2026-08-25T07:03:14Z",
     "text_extraction_latest_update": "2026-08-22T08:03:55.748195Z"
   }
 }
