@@ -130,6 +130,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:23Z"
       }
+    },
+    {
+      "description": "Added as Co-Sponsor All Senators",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:34:30Z"
+      }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Darby A. Hills",
+      "date": "2026-08-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-26T07:34:30Z"
+      }
     }
   ],
   "sponsorships": [
@@ -147,6 +167,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sally J. Turner\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darby A. Hills",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Darby A. Hills\"}",
       "organization_id": null
     }
   ],
@@ -184,7 +212,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:23Z",
+    "logs_latest_update": "2026-08-26T07:34:30Z",
     "text_extraction_latest_update": "2026-07-22T07:54:53.120246Z"
   }
 }
