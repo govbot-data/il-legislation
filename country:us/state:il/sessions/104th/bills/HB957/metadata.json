@@ -325,13 +325,13 @@
       }
     },
     {
-      "description": "Added as Alternate Co-Sponsor Sen. Adriane Johnson",
+      "description": "Added as Alternate Co-Sponsor Sen. Adriane L. Johnson",
       "date": "2026-05-06",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:56:20Z"
+        "log_file_created": "2026-08-27T18:09:26Z"
       }
     },
     {
@@ -682,6 +682,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:20Z"
       }
+    },
+    {
+      "description": "Rule 19(b) / Re-referred to Rules Committee",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:09:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -742,11 +752,11 @@
       "organization_id": null
     },
     {
-      "name": "Adriane Johnson",
+      "name": "Adriane L. Johnson",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane Johnson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane L. Johnson\"}",
       "organization_id": null
     },
     {
@@ -884,7 +894,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:20Z",
+    "logs_latest_update": "2026-08-27T18:09:26Z",
     "text_extraction_latest_update": "2026-07-22T08:32:14.674788Z"
   }
 }

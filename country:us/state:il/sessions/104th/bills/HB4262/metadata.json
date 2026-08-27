@@ -327,13 +327,13 @@
       }
     },
     {
-      "description": "Added Co-Sponsor Rep. Dan Ugaste",
+      "description": "Added Co-Sponsor Rep. Daniel J. Ugaste",
       "date": "2026-04-15",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:56:23Z"
+        "log_file_created": "2026-08-27T18:09:26Z"
       }
     },
     {
@@ -410,6 +410,16 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:56:23Z"
+      }
+    },
+    {
+      "description": "Added as Alternate Co-Sponsor Sen. Darby A. Hills",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:09:26Z"
       }
     }
   ],
@@ -535,11 +545,11 @@
       "organization_id": null
     },
     {
-      "name": "Dan Ugaste",
+      "name": "Daniel J. Ugaste",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Ugaste\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel J. Ugaste\"}",
       "organization_id": null
     },
     {
@@ -564,6 +574,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mike Porfirio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Darby A. Hills",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Darby A. Hills\"}",
       "organization_id": null
     }
   ],
@@ -631,7 +649,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:23Z",
+    "logs_latest_update": "2026-08-27T18:09:26Z",
     "text_extraction_latest_update": "2026-07-22T09:30:42.608561Z"
   }
 }

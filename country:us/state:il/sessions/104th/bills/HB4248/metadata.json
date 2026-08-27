@@ -1038,6 +1038,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:35Z"
       }
+    },
+    {
+      "description": "Rule 19(b) / Re-referred to Rules Committee",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:09:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -1511,7 +1521,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:35Z",
+    "logs_latest_update": "2026-08-27T18:09:26Z",
     "text_extraction_latest_update": "2026-07-22T08:22:28.548973Z"
   }
 }

@@ -544,6 +544,16 @@
       }
     },
     {
+      "description": "Rule 19(b) / Re-referred to Rules Committee",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:09:26Z"
+      }
+    },
+    {
       "description": "Chief Sponsor Changed to Rep. Robert \"Bob\" Rita",
       "date": "2026-07-02",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -690,7 +700,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:14Z",
+    "logs_latest_update": "2026-08-27T18:09:26Z",
     "text_extraction_latest_update": "2026-07-22T10:07:05.035766Z"
   }
 }

@@ -720,6 +720,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:23Z"
       }
+    },
+    {
+      "description": "Senate Floor Amendment No. 2 Rule 19(b) / Motion Referred to Rules Committee",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:09:26Z"
+      }
+    },
+    {
+      "description": "Senate Floor Amendment No. 3 Rule 19(b) / Motion Referred to Rules Committee",
+      "date": "2026-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:09:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -888,7 +908,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:23Z",
+    "logs_latest_update": "2026-08-27T18:09:26Z",
     "text_extraction_latest_update": "2026-07-21T23:37:08.728844Z"
   }
 }

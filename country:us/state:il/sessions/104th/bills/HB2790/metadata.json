@@ -345,6 +345,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:32Z"
       }
+    },
+    {
+      "description": "Added as Alternate Chief Co-Sponsor Sen. Donald P. DeWitte",
+      "date": "2026-08-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-27T18:09:26Z"
+      }
     }
   ],
   "sponsorships": [
@@ -402,6 +412,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Cristina Castro\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Donald P. DeWitte",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Donald P. DeWitte\"}",
       "organization_id": null
     }
   ],
@@ -484,7 +502,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:32Z",
+    "logs_latest_update": "2026-08-27T18:09:26Z",
     "text_extraction_latest_update": "2026-07-22T00:37:30.121936Z"
   }
 }

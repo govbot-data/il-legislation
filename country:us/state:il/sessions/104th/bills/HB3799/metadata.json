@@ -1000,6 +1000,16 @@
       }
     },
     {
+      "description": "Placed on Calendar Order of Concurrence Senate Amendment(s) 2, 3",
+      "date": "2026-02-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T18:56:13Z"
+      }
+    },
+    {
       "description": "Senate Floor Amendment No. 2 Motion to Concur Recommends Be Adopted Rules Committee;  005-000-000",
       "date": "2026-02-24",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -1020,8 +1030,8 @@
       }
     },
     {
-      "description": "Placed on Calendar Order of Concurrence Senate Amendment(s) 2, 3",
-      "date": "2026-02-24",
+      "description": "Added Co-Sponsor Rep. Lilian Jim\u00e9nez",
+      "date": "2026-03-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
@@ -1030,13 +1040,13 @@
       }
     },
     {
-      "description": "Added Co-Sponsor Rep. Lilian Jim\u00e9nez",
-      "date": "2026-03-10",
+      "description": "Rule 19(b) / Re-referred to Rules Committee",
+      "date": "2026-07-01",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:56:13Z"
+        "log_file_created": "2026-08-27T18:09:26Z"
       }
     }
   ],
@@ -1286,7 +1296,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:13Z",
+    "logs_latest_update": "2026-08-27T18:09:26Z",
     "text_extraction_latest_update": "2026-07-22T10:15:37.953715Z"
   }
 }
