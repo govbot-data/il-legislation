@@ -210,6 +210,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:30Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Regan Deering",
+      "date": "2026-08-28",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-28T19:20:45Z"
+      }
     }
   ],
   "sponsorships": [
@@ -332,6 +342,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Anna Moeller\"}",
       "organization_id": null
+    },
+    {
+      "name": "Regan Deering",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Regan Deering\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -368,7 +386,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:30Z",
+    "logs_latest_update": "2026-08-28T19:20:45Z",
     "text_extraction_latest_update": "2026-07-22T00:09:36.689706Z"
   }
 }
