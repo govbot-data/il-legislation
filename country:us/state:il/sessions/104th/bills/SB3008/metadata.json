@@ -381,6 +381,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:29Z"
       }
+    },
+    {
+      "description": "Alternate Chief Sponsor Changed to Rep. Dagmara Avelar",
+      "date": "2026-09-02",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T11:25:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -425,11 +435,11 @@
       "organization_id": null
     },
     {
-      "name": "Will Guzzardi",
+      "name": "Dagmara Avelar",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Will Guzzardi\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dagmara Avelar\"}",
       "organization_id": null
     }
   ],
@@ -482,7 +492,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:29Z",
+    "logs_latest_update": "2026-09-03T11:25:27Z",
     "text_extraction_latest_update": "2026-07-22T11:26:19.551041Z"
   }
 }

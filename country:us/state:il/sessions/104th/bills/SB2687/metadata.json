@@ -178,6 +178,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:14Z"
       }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Paul Jacobs",
+      "date": "2026-09-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-03T11:25:27Z"
+      }
     }
   ],
   "sponsorships": [
@@ -284,6 +294,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dave Syverson\"}",
       "organization_id": null
+    },
+    {
+      "name": "Paul Jacobs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Paul Jacobs\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -320,7 +338,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:14Z",
+    "logs_latest_update": "2026-09-03T11:25:27Z",
     "text_extraction_latest_update": "2026-07-22T08:04:07.868132Z"
   }
 }

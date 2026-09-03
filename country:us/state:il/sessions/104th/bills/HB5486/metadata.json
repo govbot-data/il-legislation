@@ -312,18 +312,6 @@
       }
     },
     {
-      "description": "Second Reading - Short Debate",
-      "date": "2026-05-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "reading-2"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T18:56:30Z"
-      }
-    },
-    {
       "description": "House Floor Amendment No. 1 Adopted",
       "date": "2026-05-06",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -588,7 +576,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:30Z",
+    "logs_latest_update": "2026-09-03T11:25:27Z",
     "text_extraction_latest_update": "2026-07-22T11:19:28.186442Z"
   }
 }
