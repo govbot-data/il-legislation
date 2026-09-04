@@ -530,6 +530,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:16Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Gregg Johnson",
+      "date": "2026-09-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-04T11:12:09Z"
+      }
     }
   ],
   "sponsorships": [
@@ -828,6 +838,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Anne Stava\"}",
       "organization_id": null
+    },
+    {
+      "name": "Gregg Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Gregg Johnson\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -879,7 +897,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:16Z",
+    "logs_latest_update": "2026-09-04T11:12:09Z",
     "text_extraction_latest_update": "2026-07-22T01:17:56.267392Z"
   }
 }
