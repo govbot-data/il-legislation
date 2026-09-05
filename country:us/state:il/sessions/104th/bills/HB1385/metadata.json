@@ -100,13 +100,13 @@
       }
     },
     {
-      "description": "Added Chief Co-Sponsor Rep. Dan Ugaste",
+      "description": "Added Chief Co-Sponsor Rep. Daniel J. Ugaste",
       "date": "2025-03-25",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:56:23Z"
+        "log_file_created": "2026-09-05T11:30:53Z"
       }
     },
     {
@@ -168,6 +168,26 @@
       "_processing": {
         "log_file_created": "2026-08-09T08:14:44Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Regan Deering",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T11:30:53Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Wayne A. Rosenthal",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T11:30:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -188,11 +208,11 @@
       "organization_id": null
     },
     {
-      "name": "Dan Ugaste",
+      "name": "Daniel J. Ugaste",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Ugaste\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel J. Ugaste\"}",
       "organization_id": null
     },
     {
@@ -274,6 +294,22 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nicole La Ha\"}",
       "organization_id": null
+    },
+    {
+      "name": "Regan Deering",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Regan Deering\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wayne A. Rosenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wayne A. Rosenthal\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -310,7 +346,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T08:14:44Z",
+    "logs_latest_update": "2026-09-05T11:30:53Z",
     "text_extraction_latest_update": "2026-08-09T08:17:44.870285Z"
   }
 }

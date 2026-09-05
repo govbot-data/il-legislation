@@ -26,6 +26,16 @@
       "_processing": {
         "log_file_created": "2026-08-26T07:34:30Z"
       }
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Barbara Hernandez",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T11:30:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -35,6 +45,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Janet Yang Rohr\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Barbara Hernandez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Barbara Hernandez\"}",
       "organization_id": null
     }
   ],
@@ -72,7 +90,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-26T07:34:30Z",
+    "logs_latest_update": "2026-09-05T11:30:53Z",
     "text_extraction_latest_update": "2026-08-26T07:37:20.248774Z"
   }
 }

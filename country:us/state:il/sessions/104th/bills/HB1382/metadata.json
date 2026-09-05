@@ -198,6 +198,26 @@
       "_processing": {
         "log_file_created": "2026-09-02T11:44:22Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Regan Deering",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T11:30:53Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Wayne A. Rosenthal",
+      "date": "2026-09-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-05T11:30:53Z"
+      }
     }
   ],
   "sponsorships": [
@@ -320,6 +340,22 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tony M. McCombie\"}",
       "organization_id": null
+    },
+    {
+      "name": "Regan Deering",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Regan Deering\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Wayne A. Rosenthal",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wayne A. Rosenthal\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -356,7 +392,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-02T11:44:22Z",
+    "logs_latest_update": "2026-09-05T11:30:53Z",
     "text_extraction_latest_update": "2026-09-02T11:47:30.586470Z"
   }
 }
