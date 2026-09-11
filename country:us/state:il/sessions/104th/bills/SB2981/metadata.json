@@ -190,6 +190,16 @@
       "_processing": {
         "log_file_created": "2026-08-15T07:30:06Z"
       }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Robert Peters",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T11:27:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -272,6 +282,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ram Villivalam\"}",
       "organization_id": null
+    },
+    {
+      "name": "Robert Peters",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Robert Peters\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -308,7 +326,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-15T07:30:06Z",
+    "logs_latest_update": "2026-09-11T11:27:41Z",
     "text_extraction_latest_update": "2026-08-15T07:32:36.647758Z"
   }
 }

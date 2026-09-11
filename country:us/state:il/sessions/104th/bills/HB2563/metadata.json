@@ -280,6 +280,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:17Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Diane Blair-Sherlock",
+      "date": "2026-09-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T11:27:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -329,6 +339,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Barbara Hernandez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diane Blair-Sherlock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Diane Blair-Sherlock\"}",
       "organization_id": null
     }
   ],
@@ -396,7 +414,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:17Z",
+    "logs_latest_update": "2026-09-11T11:27:41Z",
     "text_extraction_latest_update": "2026-07-22T09:14:49.948900Z"
   }
 }

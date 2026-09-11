@@ -200,6 +200,16 @@
       "_processing": {
         "log_file_created": "2026-09-05T11:30:53Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Brandun Schweizer",
+      "date": "2026-09-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T11:27:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -314,6 +324,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Wayne A. Rosenthal\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brandun Schweizer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brandun Schweizer\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -350,7 +368,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T11:30:53Z",
+    "logs_latest_update": "2026-09-11T11:27:41Z",
     "text_extraction_latest_update": "2026-09-05T11:33:28.370306Z"
   }
 }

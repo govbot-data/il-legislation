@@ -36,6 +36,16 @@
       "_processing": {
         "log_file_created": "2026-09-05T11:30:53Z"
       }
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Jed Davis",
+      "date": "2026-09-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-11T11:27:41Z"
+      }
     }
   ],
   "sponsorships": [
@@ -53,6 +63,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Barbara Hernandez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jed Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jed Davis\"}",
       "organization_id": null
     }
   ],
@@ -90,7 +108,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T11:30:53Z",
+    "logs_latest_update": "2026-09-11T11:27:41Z",
     "text_extraction_latest_update": "2026-09-05T11:33:29.627061Z"
   }
 }
