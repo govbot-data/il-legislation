@@ -134,13 +134,13 @@
       }
     },
     {
-      "description": "Added as Chief Co-Sponsor Sen. Adriane Johnson",
+      "description": "Added as Chief Co-Sponsor Sen. Adriane L. Johnson",
       "date": "2026-02-26",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:56:32Z"
+        "log_file_created": "2026-09-15T12:29:24Z"
       }
     },
     {
@@ -434,6 +434,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2026-07-21T18:56:32Z"
+      }
+    },
+    {
+      "description": "Senate Committee Amendment No. 1 Tabled Pursuant to Rule 5-4a",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T12:29:24Z"
+      }
+    },
+    {
+      "description": "Senate Committee Amendment No. 2 Tabled Pursuant to Rule 5-4a",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-15T12:29:24Z"
       }
     },
     {
@@ -974,11 +998,11 @@
       "organization_id": null
     },
     {
-      "name": "Adriane Johnson",
+      "name": "Adriane L. Johnson",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane Johnson\"}",
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane L. Johnson\"}",
       "organization_id": null
     },
     {
@@ -1358,7 +1382,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-12T08:17:18Z",
+    "logs_latest_update": "2026-09-15T12:29:24Z",
     "text_extraction_latest_update": "2026-08-12T08:20:06.500615Z"
   }
 }
