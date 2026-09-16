@@ -110,6 +110,16 @@
       "_processing": {
         "log_file_created": "2026-09-05T11:30:53Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Thaddeus Jones",
+      "date": "2026-09-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-16T11:28:04Z"
+      }
     }
   ],
   "sponsorships": [
@@ -152,6 +162,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Theresa Mah\"}",
       "organization_id": null
+    },
+    {
+      "name": "Thaddeus Jones",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Thaddeus Jones\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -188,7 +206,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-05T11:30:53Z",
+    "logs_latest_update": "2026-09-16T11:28:04Z",
     "text_extraction_latest_update": "2026-09-05T11:33:28.730698Z"
   }
 }
