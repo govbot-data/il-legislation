@@ -192,6 +192,18 @@
       }
     },
     {
+      "description": "Senate Committee Amendment No. 1 Tabled Pursuant to Rule 5-4(a)",
+      "date": "2026-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "amendment-failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-17T11:48:00Z"
+      }
+    },
+    {
       "description": "Senate Committee Amendment No. 1 Rule 3-9(a) / Re-referred to Assignments",
       "date": "2026-03-13",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -811,7 +823,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-25T07:03:14Z",
+    "logs_latest_update": "2026-09-17T11:48:00Z",
     "text_extraction_latest_update": "2026-08-25T07:05:50.963450Z"
   }
 }
