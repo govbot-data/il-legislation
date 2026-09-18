@@ -26,6 +26,16 @@
       "_processing": {
         "log_file_created": "2026-08-09T08:14:44Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Steven Reick",
+      "date": "2026-09-17",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-18T11:26:56Z"
+      }
     }
   ],
   "sponsorships": [
@@ -35,6 +45,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Travis Weaver\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Steven Reick",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Steven Reick\"}",
       "organization_id": null
     }
   ],
@@ -72,7 +90,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T08:14:44Z",
+    "logs_latest_update": "2026-09-18T11:26:56Z",
     "text_extraction_latest_update": "2026-08-09T08:17:49.103590Z"
   }
 }
