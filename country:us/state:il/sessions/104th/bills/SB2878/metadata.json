@@ -158,6 +158,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:32Z"
       }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Sue Rezin",
+      "date": "2026-09-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-20T12:10:52Z"
+      }
     }
   ],
   "sponsorships": [
@@ -167,6 +177,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Julie A. Morrison\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sue Rezin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Sue Rezin\"}",
       "organization_id": null
     }
   ],
@@ -219,7 +237,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:32Z",
+    "logs_latest_update": "2026-09-20T12:10:52Z",
     "text_extraction_latest_update": "2026-07-22T11:22:19.036081Z"
   }
 }
