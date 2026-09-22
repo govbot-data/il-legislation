@@ -190,6 +190,16 @@
       "_processing": {
         "log_file_created": "2026-09-03T11:25:27Z"
       }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Seth Lewis",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -272,6 +282,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Paul Jacobs\"}",
       "organization_id": null
+    },
+    {
+      "name": "Seth Lewis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Seth Lewis\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -308,7 +326,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-03T11:25:27Z",
+    "logs_latest_update": "2026-09-22T11:50:46Z",
     "text_extraction_latest_update": "2026-09-03T11:28:43.282588Z"
   }
 }

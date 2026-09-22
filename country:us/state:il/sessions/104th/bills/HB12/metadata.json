@@ -100,6 +100,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:34Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Regan Deering",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -125,6 +135,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jay Hoffman\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regan Deering",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Regan Deering\"}",
       "organization_id": null
     }
   ],
@@ -162,7 +180,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:34Z",
+    "logs_latest_update": "2026-09-22T11:50:46Z",
     "text_extraction_latest_update": "2026-07-21T21:23:10.635743Z"
   }
 }

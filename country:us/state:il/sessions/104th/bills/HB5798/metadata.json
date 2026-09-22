@@ -46,6 +46,76 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:33Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Tony M. McCombie",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. David Friess",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Nicole La Ha",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kevin Schmidt",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Regan Deering",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Chris Miller",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kyle Moore",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +141,62 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Travis Weaver\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony M. McCombie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tony M. McCombie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Friess",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"David Friess\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole La Ha",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nicole La Ha\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regan Deering",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Regan Deering\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Miller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chris Miller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kyle Moore\"}",
       "organization_id": null
     }
   ],
@@ -108,7 +234,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:33Z",
+    "logs_latest_update": "2026-09-22T11:50:46Z",
     "text_extraction_latest_update": "2026-07-21T22:39:56.518586Z"
   }
 }

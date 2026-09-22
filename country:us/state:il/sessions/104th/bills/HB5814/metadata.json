@@ -46,6 +46,46 @@
       "_processing": {
         "log_file_created": "2026-09-18T11:26:56Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kevin Schmidt",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kyle Moore",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Nicole La Ha",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. William E Hauter",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -71,6 +111,38 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Steven Reick\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kyle Moore",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kyle Moore\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicole La Ha",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nicole La Ha\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William E Hauter",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"William E Hauter\"}",
       "organization_id": null
     }
   ],
@@ -108,7 +180,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-18T11:26:56Z",
+    "logs_latest_update": "2026-09-22T11:50:46Z",
     "text_extraction_latest_update": "2026-09-18T11:29:43.734818Z"
   }
 }

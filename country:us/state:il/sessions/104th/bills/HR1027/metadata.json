@@ -126,6 +126,26 @@
       "_processing": {
         "log_file_created": "2026-09-16T11:28:04Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Brad Halbrook",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Jennifer Sanalitro",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -216,6 +236,22 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Charles Meier\"}",
       "organization_id": null
+    },
+    {
+      "name": "Brad Halbrook",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brad Halbrook\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jennifer Sanalitro",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jennifer Sanalitro\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -252,7 +288,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-16T11:28:04Z",
+    "logs_latest_update": "2026-09-22T11:50:46Z",
     "text_extraction_latest_update": "2026-09-16T11:30:53.505623Z"
   }
 }

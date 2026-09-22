@@ -8174,6 +8174,11 @@
     "name": "104th Regular Session",
     "date_folder": "2025-2025"
   },
+  "HR1033": {
+    "session_id": "104th",
+    "name": "104th Regular Session",
+    "date_folder": "2025-2025"
+  },
   "HB101": {
     "session_id": "104th",
     "name": "104th Regular Session",
@@ -30380,6 +30385,11 @@
     "date_folder": "2025-2025"
   },
   "HB110": {
+    "session_id": "104th",
+    "name": "104th Regular Session",
+    "date_folder": "2025-2025"
+  },
+  "HR1032": {
     "session_id": "104th",
     "name": "104th Regular Session",
     "date_folder": "2025-2025"

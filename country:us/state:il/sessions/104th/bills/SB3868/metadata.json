@@ -140,6 +140,26 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:20Z"
       }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Donald P. DeWitte",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Seth Lewis",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -182,6 +202,22 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Dave Syverson\"}",
       "organization_id": null
+    },
+    {
+      "name": "Donald P. DeWitte",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Donald P. DeWitte\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Seth Lewis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Seth Lewis\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -218,7 +254,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:20Z",
+    "logs_latest_update": "2026-09-22T11:50:46Z",
     "text_extraction_latest_update": "2026-07-22T02:15:12.997264Z"
   }
 }

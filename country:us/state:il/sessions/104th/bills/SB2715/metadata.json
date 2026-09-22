@@ -798,6 +798,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:24Z"
       }
+    },
+    {
+      "description": "Added as Co-Sponsor Sen. Adriane L. Johnson",
+      "date": "2026-09-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-22T11:50:46Z"
+      }
     }
   ],
   "sponsorships": [
@@ -807,6 +817,14 @@
       "entity_type": "person",
       "primary": true,
       "person_id": "~{\"chamber\": \"upper\", \"name\": \"Mike Porfirio\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adriane L. Johnson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Adriane L. Johnson\"}",
       "organization_id": null
     },
     {
@@ -1026,7 +1044,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:24Z",
+    "logs_latest_update": "2026-09-22T11:50:46Z",
     "text_extraction_latest_update": "2026-07-21T22:48:10.976212Z"
   }
 }
