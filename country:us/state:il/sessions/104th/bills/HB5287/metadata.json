@@ -110,6 +110,16 @@
       "_processing": {
         "log_file_created": "2026-08-09T08:14:43Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Michael Crawford",
+      "date": "2026-09-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-23T11:41:25Z"
+      }
     }
   ],
   "sponsorships": [
@@ -152,6 +162,14 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lindsey LaPointe\"}",
       "organization_id": null
+    },
+    {
+      "name": "Michael Crawford",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Michael Crawford\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -188,7 +206,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-08-09T08:14:43Z",
+    "logs_latest_update": "2026-09-23T11:41:25Z",
     "text_extraction_latest_update": "2026-08-09T08:17:33.751040Z"
   }
 }
