@@ -28,13 +28,13 @@
       }
     },
     {
-      "description": "Added Co-Sponsor Rep. Dan Ugaste",
+      "description": "Added Co-Sponsor Rep. Daniel J. Ugaste",
       "date": "2026-02-03",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:56:10Z"
+        "log_file_created": "2026-09-24T11:39:37Z"
       }
     },
     {
@@ -98,6 +98,16 @@
       "_processing": {
         "log_file_created": "2026-07-21T18:56:10Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Adam M. Niemerg",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:39:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -110,11 +120,11 @@
       "organization_id": null
     },
     {
-      "name": "Dan Ugaste",
+      "name": "Daniel J. Ugaste",
       "classification": "cosponsor",
       "entity_type": "person",
       "primary": false,
-      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Ugaste\"}",
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Daniel J. Ugaste\"}",
       "organization_id": null
     },
     {
@@ -147,6 +157,14 @@
       "entity_type": "person",
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tony M. McCombie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Adam M. Niemerg",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Adam M. Niemerg\"}",
       "organization_id": null
     }
   ],
@@ -184,7 +202,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:56:10Z",
+    "logs_latest_update": "2026-09-24T11:39:37Z",
     "text_extraction_latest_update": "2026-07-22T07:48:18.702943Z"
   }
 }

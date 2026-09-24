@@ -86,6 +86,56 @@
       "_processing": {
         "log_file_created": "2026-09-22T11:50:46Z"
       }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Jennifer Sanalitro",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:39:37Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Regan Deering",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:39:37Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. David Friess",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:39:37Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Martin McLaughlin",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:39:37Z"
+      }
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Jackie Haas",
+      "date": "2026-09-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-09-24T11:39:37Z"
+      }
     }
   ],
   "sponsorships": [
@@ -144,6 +194,46 @@
       "primary": false,
       "person_id": "~{\"chamber\": \"lower\", \"name\": \"William E Hauter\"}",
       "organization_id": null
+    },
+    {
+      "name": "Jennifer Sanalitro",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jennifer Sanalitro\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Regan Deering",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Regan Deering\"}",
+      "organization_id": null
+    },
+    {
+      "name": "David Friess",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"David Friess\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Martin McLaughlin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Martin McLaughlin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackie Haas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jackie Haas\"}",
+      "organization_id": null
     }
   ],
   "related_bills": [],
@@ -180,7 +270,7 @@
     "division_id": "ocd-division/country:us/state:il"
   },
   "_processing": {
-    "logs_latest_update": "2026-09-22T11:50:46Z",
+    "logs_latest_update": "2026-09-24T11:39:37Z",
     "text_extraction_latest_update": "2026-09-22T11:53:34.008654Z"
   }
 }
